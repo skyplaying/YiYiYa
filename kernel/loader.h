@@ -15,7 +15,7 @@
 #define EXEC_ADDR  0x4000000
 #endif
 
-#define MAX_PHDR 10
+#define MAX_PHDR 14
 #define MAX_SHDR 30
 
 typedef struct exec{
